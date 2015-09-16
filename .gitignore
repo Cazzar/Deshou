@@ -1,4 +1,5 @@
-*
-!Deshou STEAM
-!README.md
-!.gitignore
+/*
+/*/
+!/Deshou STEAM
+!/README.md
+!/.gitignore
